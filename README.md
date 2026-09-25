@@ -92,6 +92,7 @@ Terminal Emulators
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [MOLTamp](https://moltamp.com/) - A skinnable cockpit shell that wraps AI terminal agents (Claude Code, Codex CLI, Gemini CLI, Aider, Cursor CLI) in a themeable UI with widgets, audio visualizers, and a community marketplace.
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
+- [Mediocritty](https://github.com/Ryba37/Mediocritty) - A lightweight, GPU-accelerated terminal with all the essentials you need, powered by native rendering technologies and weighing just 2.9 MB.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Nterm](https://nterm.app) - The terminal built for Node.js developers. A modern terminal with built-in Node.js version management.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
